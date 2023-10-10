@@ -5,5 +5,12 @@
     "projectDescription": "Sumérgete en la inspiración con mi Generador de Consejos Aleatorio. Esta herramienta en línea te brinda la capacidad de generar contenido de texto al azar al instante. Perfecto para llenar espacios, probar diseños o liberar la imaginación, este generador te ofrece fragmentos únicos y sorprendentes en cada clic. Desarrollado utilizando HTML, SCSS y JavaScript, es fácil de usar y rápido de cargar.",
     "tags": ["HTML", "SCSS", "JAVASCRIPT"],
     "link": "https://azazek6.github.io/Advice_generator_app/"
+  },
+  {
+    "id": 2,
+    "projectName": "Generador QR",
+    "projectDescription": "Aplicación para generar QR de cualquier sitio web o enlace que tenga, tiene la opcion para descargar el QR generado.",
+    "tags": ["HTML", "CSS", "JAVASCRIPT"],
+    "link": "https://azazek6.github.io/Dev-challenges-QA-code-generator/"
   }
 ]
